@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://youngstownplumbingteam.com/sitemap.xml
